@@ -1,0 +1,2 @@
+# TrumpSentimentAnalysis
+Based on a spring 2020 lesson from the HarvardX Data Science Professional Certificate Program, the R script executes a sentiment analysis of Donald J. Trump's tweets through all of 2020 and early 2021. Included are three select visualizations of log-odds ratios for different sentiments before and after three major historic events -- the WHO's COVID-19 pandemic declaration, the death of George Floyd, and Election Day 2020. Included is the CSV containing the analyzed tweets, which is downloadable through https://www.thetrumparchive.com/
