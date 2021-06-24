@@ -2,7 +2,7 @@
 ## "Text mining and sentiment analysis of Trump tweets, 2020-2021,"
 ## by Andrew Infantino
 ## Based on code provided by Dr. Rafael A. Irizarry in the spring of 2020 for the HarvardX Data Science Professional Certificate program.
-## Compiled 23 June 2021
+## Completed 24 June 2021
 
 #### Libraries and data ####
 if(!require(tidyverse)) install.packages("tidyverse", repos = "http://cran.us.r-project.org")
